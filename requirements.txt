@@ -1,0 +1,5 @@
+weasyprint
+beautifulsoup4
+requests
+tqdm
+PyPDF2
