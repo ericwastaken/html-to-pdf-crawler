@@ -25,7 +25,7 @@ A Python tool that crawls websites and converts HTML pages to PDF documents. Thi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ericwastaken/html_to_pdf_crawler.git
+   git clone https://github.com/ericwastaken/html-to-pdf-crawler.git
    cd html_to_pdf_crawler
    ```
 
